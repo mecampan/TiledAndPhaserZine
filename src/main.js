@@ -1,4 +1,5 @@
-// Michael Campanile
+// Original Code: Jim Whitehead
+// Edited by: Michael Campanile
 // Created: 5/27/2024
 // Phaser: 3.70.0
 //
